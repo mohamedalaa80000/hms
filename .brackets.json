@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/xampp/htdocs/A/hms/hms/public/assets/demo/default/custom/components/forms/widgets/nouislider.js",
+        "C:/xampp/htdocs/A/hms/hms/public/assets/demo/default/custom/components/forms/widgets/select2.js"
+    ]
+}

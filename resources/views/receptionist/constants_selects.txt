@@ -1,0 +1,8 @@
+ $user_type = array("Doctor","Nurse","Receptionist","Accountant","X-Ray Employees","Warehouse Employees");
+ $status = array("Not Approved","Approved");
+ $loginfacility = array("No","Yes");
+ $Marital = array("Single","Married");
+ $gender = array("Male","Female");
+ $status = array("Inactive","Active","Block");
+ $appointmentstatus = array("Unconfirmed","Confirmed","Finish","Late Finish","Cancel");
+ $weeks = array("Saturday","Sunday","Monday","Tuesday","Wednesday","Thursday","Friday");

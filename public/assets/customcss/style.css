@@ -1,0 +1,50 @@
+.userimageeditprofile{
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.hides_day_work{
+    display: none;
+}
+.hides_work_end,.hides_work_start{
+    display: block;
+}
+.hides_work_end_emp,.hides_work_start_emp{
+     display: none;
+}
+.serviceplusicon,.serviceremoveicon{
+       position: absolute;
+    right: -6px;
+    top: 32px;
+    font-size: 26px;
+    cursor: pointer;
+    
+}
+.serviceplus{
+    position: relative;
+}
+.general{
+    font-size: 22px;
+    font-weight: 100;
+}
+.customcsstable  td{
+    color: black;
+    font-size: 15px;
+}
+.floats_left{
+    float: left;
+}
+.margins-left{
+    margin-left: 30px;
+}
+.margins_top{
+    margin-top: 5px;
+}
+.aligin-left{
+    text-align: left !important;
+}
+.clear{
+    clear: both;
+}
